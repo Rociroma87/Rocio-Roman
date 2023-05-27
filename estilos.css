@@ -1,0 +1,12 @@
+* {
+    margin: 10px;
+    padding: 4px;
+    background-color: #98EECC ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulos {
+    border:5px blue;
+    style: "color: #79E0EE"
+    background-color: #D0F5BE
+    text-align: center;
+}
